@@ -1,0 +1,13 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+    max-width: 200px;
+    margin: 10px auto; /* Centrar la tarjeta en el contenedor */
+}
+
+.pokemon-image {
+    width: 100px;
+    height: 100px;
+}
